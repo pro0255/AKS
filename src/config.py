@@ -1,0 +1,1 @@
+directory = f'C://Users//proko//Desktop//University//iv//aks//datasets'
