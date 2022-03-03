@@ -31,13 +31,13 @@ def get_dataset(dataset_type):
     paths = get_all_paths()
 
     if DataSets.dna == dataset_type:
-        return load_data(paths[0])
+        return (load_data(paths[0]), paths[0])
     if DataSets.english == dataset_type:
-        return load_data(paths[1])
+        return (load_data(paths[1]), paths[1])
     if DataSets.proteins == dataset_type:
-        return load_data(paths[2])
+        return (load_data(paths[2]), paths[2])
     if DataSets.sources == dataset_type:
-        return load_data(paths[3])
+        return (load_data(paths[3]), paths[3])
 
 
 
