@@ -1,3 +1,3 @@
-;building_tree;encoding_data;decoding_data;Path;Parameter;Type;Original;Aprox;Calculation
-0;9.42099642753601;0.0;0.0;C://Users//proko//Desktop//University//iv//aks//datasets\dna\dna.50MB;;Huffman;40;11;9.42099642753601
-1;9.944109201431274;0.0;0.0;C://Users//proko//Desktop//University//iv//aks//datasets\english\english.50MB;;Huffman;40;25;9.944109201431274
+building_tree;encoding_data;decoding_data;Path;Parameter;Type;Original;Aprox;Calculation;Name
+9.263348579406738;513.5365948677063;136.44483995437622;C://Users//proko//Desktop//University//iv//aks//datasets\dna\dna.50MB;;Huffman;419430400;115869903;659.2447834014893;dna
+8.394352197647095;2162.968342065811;471.27089619636536;C://Users//proko//Desktop//University//iv//aks//datasets\english\english.50MB;;Huffman;419430400;239334456;2642.6335904598236;english

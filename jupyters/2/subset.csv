@@ -1,0 +1,11 @@
+Path;Parameter;Type;Original;Aprox;Calculation;Name
+C://Users//proko//Desktop//University//iv//aks//datasets\dna\dna.50MB;1;1-Entropy;419430400;101445639.33780403;50.29936408996582;dna
+C://Users//proko//Desktop//University//iv//aks//datasets\dna\dna.50MB;2;2-Entropy;419430400;100899903.35543625;61.875354528427124;dna
+C://Users//proko//Desktop//University//iv//aks//datasets\dna\dna.50MB;3;3-Entropy;419430400;100641473.67467834;65.43651676177979;dna
+C://Users//proko//Desktop//University//iv//aks//datasets\dna\dna.50MB;4;4-Entropy;419430400;100288460.87274612;65.30190634727478;dna
+C://Users//proko//Desktop//University//iv//aks//datasets\dna\dna.50MB;5;5-Entropy;419430400;99793057.71449377;61.107863903045654;dna
+C://Users//proko//Desktop//University//iv//aks//datasets\english\english.50MB;1;1-Entropy;419430400;189083792.81352305;49.75087356567383;english
+C://Users//proko//Desktop//University//iv//aks//datasets\english\english.50MB;2;2-Entropy;419430400;153184274.09529322;65.77155756950378;english
+C://Users//proko//Desktop//University//iv//aks//datasets\english\english.50MB;3;3-Entropy;419430400;125071980.86481073;83.27514004707336;english
+C://Users//proko//Desktop//University//iv//aks//datasets\english\english.50MB;4;4-Entropy;419430400;105513503.99792783;98.89788889884949;english
+C://Users//proko//Desktop//University//iv//aks//datasets\english\english.50MB;5;5-Entropy;419430400;92475457.04220787;115.46628093719482;english
