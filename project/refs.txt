@@ -1,0 +1,9 @@
+# Reference with problem
+
+- https://homel.vsb.cz/~vas218/pdf/acs/grammar.pdf
+
+
+# Task
+
+- Reduction paradox
+- Expansion paradox
